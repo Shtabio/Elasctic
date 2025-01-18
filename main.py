@@ -3,7 +3,7 @@ import numpy as np
 from classes.square import Square
 from classes.point import Point
 from functions.plot_streamlines import plot_streamlines
-from functions.plot_trajectory import plot_trajectory
+from functions.plot_trajectory import plot_trajrmdkslFlkannf
 
 
 a = Square(1, Point(-1.5, -1.5))
